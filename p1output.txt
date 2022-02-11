@@ -1,1 +1,5 @@
-
+gcc -g p1original.c
+ ./a.out
+enter the base and height
+12 13
+the area of triangle of 12.000000 and 13.000000 is 78.000000

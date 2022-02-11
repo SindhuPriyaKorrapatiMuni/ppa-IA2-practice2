@@ -1,1 +1,7 @@
-
+gcc -g p2original.c
+ ./a.out
+enter the value of a2
+enter the value of a3
+enter the value of a4
+the triangle with sides 2, 3 & 4 is scalene triangle
+ 
